@@ -10,7 +10,9 @@ Welcome to lps-vm-site's documentation!
    :glob:
    :caption: Contents:
       
-   docs/notebook.md
+   docs/env.md
+   docs/dataset.md
+   docs/documentation.md
    
 
 Indices and tables
