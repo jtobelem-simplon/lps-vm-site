@@ -1,1 +1,6 @@
-# simple landing site
+# LPS-VM-SITE
+
+```
+make html
+```
+

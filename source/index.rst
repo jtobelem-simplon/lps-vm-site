@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to lps-vm-site's documentation!
-=======================================
+Welcome to lps-virtual-machine-site's documentation!
+====================================================
 
 .. toctree::
    :glob:
@@ -14,10 +14,3 @@ Welcome to lps-vm-site's documentation!
    docs/dataset.md
    docs/documentation.md
    
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
